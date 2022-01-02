@@ -11,6 +11,19 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+
+/*
+
+    Check out my youtube channel to learn more about Java anad Java Swing.
+    The link of my youtube channel is:
+    https://www.youtube.com/channel/UC_7sedpkwbotqcGD4HknepQ
+
+    If you need any Java help, pm me on Reddit, I will help you if I can. 
+
+
+ */
+
+
 public class CurrencyConverter extends JFrame implements ActionListener{
 
     private JPanel mainPanel = new JPanel();
