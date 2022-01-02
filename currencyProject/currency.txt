@@ -1,0 +1,6 @@
+eur to usd: 1.13
+usd to eur: 0.88
+eur to gbp: 0.85
+usd to gbp: 0.75
+gbp to eur: 1.18
+gbp to usd: 1.34
